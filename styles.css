@@ -1,0 +1,25 @@
+.recipes {
+    color: orange;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h1 {
+    color: green;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+h2 {
+    color: green;
+}
+
+.content,
+li {
+    color: brown;
+}
+
+img {
+    height: auto;
+    width: 400;
+}
