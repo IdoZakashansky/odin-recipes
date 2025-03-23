@@ -2,6 +2,7 @@
     color: orange;
     font-size: 20px;
     font-weight: bold;
+    display: inline;
 }
 
 h1 {
@@ -22,4 +23,13 @@ li {
 img {
     height: auto;
     width: 400;
+}
+.homepage {
+    width: 100%;
+}
+
+.homepage-content {
+    width: 200px;
+    height: 200px;
+    margin: auto;
 }
